@@ -20,7 +20,7 @@
 
 ![Jigglypuff Card Banner](./jigglypuff-banner.svg)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=olayenca&bg_color=1a0a2e&color=FFD700&line=FF69B4&point=FFD700&area_color=FF1493&area=true&hide_border=false&custom_title=🎵%20Jigglypuff%27s%20Contribution%20Song%20🎵&title_color=FFD700" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noobtoons&bg_color=1a0a2e&color=FFD700&line=FF69B4&point=FFD700&area_color=FF1493&area=true&hide_border=false&custom_title=🎵%20Jigglypuff%27s%20Contribution%20Song%20🎵&title_color=FFD700" alt="Activity graph"/>
 
 </div>
 
@@ -30,12 +30,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=olayenca&show_icons=true&theme=radical&bg_color=1a0a2e&title_color=FF69B4&icon_color=FFD700&text_color=ffffff&border_color=FF69B4&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olayenca&layout=compact&theme=radical&bg_color=1a0a2e&title_color=FF69B4&text_color=ffffff&border_color=FF69B4" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=noobtoons&show_icons=true&theme=radical&bg_color=1a0a2e&title_color=FF69B4&icon_color=FFD700&text_color=ffffff&border_color=FF69B4&rank_icon=github" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobtoons&layout=compact&theme=radical&bg_color=1a0a2e&title_color=FF69B4&text_color=ffffff&border_color=FF69B4" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=olayenca&theme=radical&background=1a0a2e&ring=FF69B4&fire=FFD700&currStreakLabel=FF69B4&border=FF69B4&sideLabels=ffffff&dates=ffffff" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=noobtoons&theme=radical&background=1a0a2e&ring=FF69B4&fire=FFD700&currStreakLabel=FF69B4&border=FF69B4&sideLabels=ffffff&dates=ffffff" alt="GitHub streak"/>
 
 </div>
 
@@ -142,6 +142,6 @@
 
 *Gotta ship 'em all!* 💗
 
-![](https://komarev.com/ghpvc/?username=olayenca&color=FF69B4&style=flat-square&label=TRAINERS+VISITED)
+![](https://komarev.com/ghpvc/?username=noobtoons&color=FF69B4&style=flat-square&label=TRAINERS+VISITED)
 
 </div>
